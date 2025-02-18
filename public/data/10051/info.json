@@ -1,0 +1,16 @@
+{
+    "nombre": "Santiago Balladales Scarpetta",
+    "edad": 21,
+    "carrera": "Ingeniería en sistemas",
+    "semestre": 3,
+    "gustos": [
+        "Soccer",
+        "Eat",
+        "Go to the church",
+        "Spicy food"
+    ],
+    "noGustos": [
+        "Early morning"
+    ],
+    "foto": "https://picsum.photos/id/237/200/300"
+}
