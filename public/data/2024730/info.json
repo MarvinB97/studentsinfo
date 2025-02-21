@@ -1,0 +1,11 @@
+{
+    "nombre": "Luis Fernando",
+    "edad": 24,
+    "carrera": "Ing Software",
+    "semestre": 6,
+    "gustos": ["Programar", "Videojuegos", "Cine"],
+    "noGustos": ["Despertarse temprano", "Cocinar", "Tareas largas"],
+    "foto": ""
+}
+
+  
