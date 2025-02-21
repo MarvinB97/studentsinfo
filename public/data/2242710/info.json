@@ -1,0 +1,11 @@
+{
+    "nombre": "Marvin Brayan Nuñez Zuñiga",
+    "edad": 27,
+    "carrera": "Desarrollo de Software",
+    "semestre": 6,
+    "gustos": ["VideoJuegos", "Leer", "Salir a comer", "Cocinar"],
+    "noGustos": ["Levantarme temprano", "Comida picante", "Ruido fuerte", "Tareas largas"],
+    "foto": "https://www.univalle.edu.co/media/k2/items/cache/9845d3c220e6e5674241ce626189d694_M.jpg"
+}
+
+  
