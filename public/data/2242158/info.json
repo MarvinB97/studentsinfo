@@ -1,0 +1,11 @@
+{
+    "nombre": "Xavier Andreu López Robledo",
+    "edad": 20,
+    "carrera": "tecnologia en desarrollo de sotware",
+    "semestre": 6,
+    "gustos": ["jugar futbol", "ver peliculas", "Correr", "comer"],
+    "noGustos": ["Despertarse temprano", "Comida picante", "Ruido fuerte"],
+    "foto": "https://www.univalle.edu.co/media/k2/items/cache/9845d3c220e6e5674241ce626189d694_M.jpg"
+}
+
+  
