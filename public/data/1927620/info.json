@@ -3,8 +3,8 @@
     "edad": 24,
     "carrera": "Tecnología en desarrollo de software",
     "semestre": 5,
-    "gustos": ["Viajar", "Deporte", "Senderismo" ],
-    "noGustos": ["Lesiones", "Higado", "Alcohol" ],
+    "gustos": ["Viajar", "Deportes", "Senderismo" ],
+    "noGustos": ["Alcohol", "Higado","Lesiones" ],
     "foto": ""
 }
   
