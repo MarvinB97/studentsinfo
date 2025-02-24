@@ -1,10 +1,10 @@
 {
-    "nombre": "Leonardo Andres Garcia Salas",
-    "edad": 25,
+    "nombre": "Kevin Toro",
+    "edad": 24,
     "carrera": "Tecnología en desarrollo de software",
     "semestre": 5,
-    "gustos": ["Futbol", "Pizza", "Viajar", "Cine", "Dormir", "FIFA", "Manejar moto" ],
-    "noGustos": ["Despertarse temprano", "Papaya", "Ruido fuerte", "Llegar tarde", "Aglomeración de gente" ],
-    "foto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCFK0TF2DnRs-Rofd8Kxz1Npmk6EuMem1CmQ&s"
+    "gustos": ["Viajar", "Deporte", "Senderismo" ],
+    "noGustos": ["Lesiones", "Higado", "Alcohol" ],
+    "foto": ""
 }
   
